@@ -1,3 +1,1 @@
-- Language
-  - [English](/)
-  - [French](/fr/home.md)
+**EN** | [FR](/fr/home.md)
