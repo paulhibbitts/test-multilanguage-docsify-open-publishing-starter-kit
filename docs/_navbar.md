@@ -1,3 +1,1 @@
-* **EN**
-* |
-* [FR](/fr/home.md)
+* [Français](/fr/home.md)
