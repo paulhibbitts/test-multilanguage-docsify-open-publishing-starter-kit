@@ -1,3 +1,5 @@
+> **This is a testing-only repository. View the main project repository at https://github.com/hibbitts-design/docsify-open-publishing-starter-kit-multilanguage.**
+
 # Docsify Open Publishing Starter Kit
 
 [![Docsify](https://img.shields.io/npm/v/docsify?label=docsify)](https://docsify.js.org/)
